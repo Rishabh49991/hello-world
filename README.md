@@ -1,2 +1,4 @@
 # hello-world
-just basics
+Hi humans
+
+Rishabh here, I like node.js
